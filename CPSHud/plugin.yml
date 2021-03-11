@@ -1,7 +1,0 @@
-name: CPSHud
-main: Hud\Lunarelly
-api: 2.0.0
-version: 1.0.0
-author: Lunarelly
-website: https://github.com/Lunarelly
-description: a Glowstone CPS hud plugin
